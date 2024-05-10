@@ -1,0 +1,207 @@
+Description:
+{
+"id": "A1",
+"firstname": "LeBron",
+"lastname": "James",
+"address": {
+"street": "23 Goat Rd",
+"city": "Los Angeles",
+"state": "CA",
+"zip": "90049"
+}
+}
+Aid: A10
+Image: Binary Data
+Description:
+{
+"id": "A10",
+"firstname": "Jaylen",
+"lastname": "Brown",
+"address": {
+"street": "100 Legends Way",
+"city": "Boston",
+"state": "MA",
+"zip": "02114"
+}
+}
+Aid: A11
+Image: None
+Description:
+{
+"id": "A11",
+"firstname": "Justin",
+"lastname": "Fields",
+"address": {
+"street": "6415 S Calumet Ave",
+"city": "Chicago",
+"state": "IL",
+"zip": "60637"
+}
+}
+Aid: A12
+Image: Binary Data
+Description:
+{
+"id": "A12",
+"firstname": "Lionel",
+"lastname": "Messi",
+"address": {
+"street": "1375 E Buena Vista Dr",
+"city": "Orlando",
+"state": "FL",
+"zip": "32830"
+}
+}
+Aid: A13
+Image: Binary Data
+Description:
+{
+"id": "A13",
+"firstname": "Mike",
+"lastname": "Trout",
+"address": {
+"street": "1313 Disneyland Dr",
+"city": "Anaheim",
+"state": "CA",
+"zip": "92802"
+}
+}
+Aid: A14
+Image: Binary Data
+Description:
+{
+"id": "A14",
+"firstname": "Alex",
+"lastname": "Ovechkin",
+"address": {
+"street": "1600 Pennsylvania Avenue NW",
+"city": "Washington",
+"state": "DC",
+"zip": "20500"
+}
+}
+Aid: A15
+Image: None
+Description:
+{
+"id": "A15",
+"firstname": "Floyd",
+"lastname": "Mayweather",
+"address": {
+"street": "4020 Schiff Dr",
+"city": "Las Vegas",
+"state": "NV",
+"zip": "89103"
+}
+}
+Aid: A2
+Image: Binary Data
+Description:
+{
+"id": "A2",
+"firstname": "Joel",
+"lastname": "Embiid",
+"address": {
+"street": "2600 Benjamin Franklin Pkwy",
+"city": "Philadelphia",
+"state": "PA",
+"zip": "19130"
+}
+}
+Aid: A3
+Image: Binary Data
+Description:
+{
+"id": "A3",
+"firstname": "Nikola",
+"lastname": "Jokic",
+"address": {
+"street": "18300 W Alameda Pkwy",
+"city": "Morrison",
+"state": "CO",
+"zip": "80465"
+}
+}
+Aid: A4
+Image: Binary Data
+Description:
+{
+"id": "A4",
+"firstname": "Jayson",
+"lastname": "Tatum",
+"address": {
+"street": "1000 Hall of Fame Ave",
+"city": "Springfield",
+"state": "MA",
+"zip": "01105"
+}
+}
+Aid: A5
+Image: Binary Data
+Description:
+{
+"id": "A5",
+"firstname": "Kevin",
+"lastname": "Durant",
+"address": {
+"street": "20 South Entrance Road",
+"city": "Grand Canyon",
+"state": "AZ",
+"zip": "86023"
+}
+}
+Aid: A6
+Image: Binary Data
+Description:
+{
+"id": "A6",
+"firstname": "Anthony",
+"lastname": "Davis",
+"address": {
+"street": "123 Rodeo Dr",
+"city": "Los Angeles",
+"state": "CA",
+"zip": "90210"
+}
+}
+Aid: A7
+Image: Binary Data
+Description:
+{
+"id": "A7",
+"firstname": "Kyrie",
+"lastname": "Irving",
+"address": {
+"street": "1 AT&T Way",
+"city": "Arlington",
+"state": "TX",
+"zip": "76011"
+}
+}
+Aid: A8
+Image: Binary Data
+Description:
+{
+"id": "A8",
+"firstname": "Devin",
+"lastname": "Booker",
+"address": {
+"street": "22 S Lake Powell Blvd, , ",
+"city": "Page",
+"state": "AZ",
+"zip": "86040"
+}
+}
+Aid: A9
+Image: Binary Data
+Description:
+{
+"id": "A9",
+"firstname": "Luka",
+"lastname": "Doncic",
+"address": {
+"street": "2500 Victory Ave",
+"city": "Dallas",
+"state": "TX",
+"zip": "75219"
+}
