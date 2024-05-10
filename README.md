@@ -5,4 +5,5 @@ Toy model of a Python app connecting cloud hosted MySQL, MongoDB, and Milvus (a 
 Yes this is an invitation to talk to me about basketball. 
 
 *Note, won't run because IP addresses and passwords were removed/redacted 
+
 **Also note, the documentation isn't documentation, but rather associated documents that show some outputs of the project
